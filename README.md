@@ -19,5 +19,5 @@ divider, the maximum error distance reduced up to 27% when k = 8 and the size de
 - [1] Hashemi, Soheil, R. Bahar, and Sherief Reda, DAC 2016.
 
 2017_Kwangwoon Uivierstiy_Computer Enginerring_Capstone design
--
--
+- https://youtu.be/Duzcuy-Q2EE
+- https://www.youtube.com/watch?v=nKNi0jsjRfo&feature=youtu.be
